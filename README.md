@@ -21,8 +21,8 @@ I learned how to unit test using XUnit, and improved my understanding of C#, the
 
 (Requires .NET SDK. https://dotnet.microsoft.com/download)
 
-1. First use the command "dotnet restore" to restore dependencies. 
-2. While in the src/LeftToDo folder, use the command "dotnet run" to run the program.
+1. First input the command "dotnet restore" to restore dependencies. 
+2. While in the src/LeftToDo folder, input the command "dotnet run" to run the program.
 
 ### 2. Using Visual Studio 2019:
 
