@@ -3,7 +3,8 @@ To-do list application (C#, .NET Core 3.1, console app)
 
 ## 1. Background
 
-Created during fall term of 2020 as course assignment. Part of higher vocational education: Webbutvecklare .NET (Web Developer .NET), 2020-2022, Jönköping University, Sweden.  
+Created during fall term of 2020 as course assignment. Part of higher vocational education: Webbutvecklare .NET (Web Developer .NET), 2020-2022, Jönköping University, Sweden.
+Name of course: Objektorienterad programmering med C# (Object-Oriented Programming using C#).
 
 ## 2. Technologies/techniques used
 
