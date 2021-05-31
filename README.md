@@ -19,9 +19,11 @@ I learned how to unit test using XUnit, and improved my understanding of C#, the
 
 ### 1. Using the console:
 
-While in the src/LeftToDo folder, use the console command "dotnet run" to run the program.
-Requires .NET SDK. https://dotnet.microsoft.com/download
+(Requires .NET SDK. https://dotnet.microsoft.com/download)
+
+1. First use the command "dotnet restore" to restore dependencies. 
+2. While in the src/LeftToDo folder, use the command "dotnet run" to run the program.
 
 ### 2. Using Visual Studio 2019:
 
-The application can also be run using Visual Studio 2019 by accessing it through the solution file and clicking the "run" button etc.
+The application can also be run using Visual Studio 2019 by accessing it through the .sln file and clicking the "run" button (among other options).
